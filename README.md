@@ -1,1 +1,1 @@
-# GTC-2-Heart-Disease-Risk-Prediction
+# GTC-Heart-Disease-Risk-Prediction
